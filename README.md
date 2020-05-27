@@ -1,1 +1,1 @@
-#Fast try JOJ of 492
+# Fast try JOJ of 492
